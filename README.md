@@ -5,4 +5,9 @@
 **THIS WILL BE HOLD**
 *ITALIZED*
 ``CROSS OUT THIS TEST``
-<<
+<SUB>SUBSCRIPT?</SUB>
+
+<sup>SUPER?</sup>
+<ins>underline/ins>
+
+>This is a quote
